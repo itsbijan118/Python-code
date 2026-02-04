@@ -1,3 +1,3 @@
 print('bijan')
 
-print('main';)
+print('main')
